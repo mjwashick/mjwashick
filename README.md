@@ -15,5 +15,5 @@ Some of my technical skills include:
 - Use and application of Design of Experiments Methodologies for quality improvement
 - Data management
 
-
+My background is dive3rse
 
