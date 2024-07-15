@@ -15,5 +15,5 @@ Some of my technical skills include:
 - Use and application of Design of Experiments Methodologies for quality improvement
 - Data management
 
-My background is dive3rse
+My diverse background in prehospital systems and medicine, public health, and global health have allowed me to develop and hone a wide range of hard and soft skills, while learning to have a deeper appreciation for the complexities of developing, leading, and managing change. 
 
