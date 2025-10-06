@@ -12,10 +12,23 @@ Hi, I’m Marshall (Marsh). I build data‑driven systems that make prehospital 
 - **Using Statistical Process Control for Human Behavior** - applying the analytical rules of statistical process control in non-standard ways.
 - **NEMSIS 3.4 → 3.5 Clinical Data Transition** — governance, quality rules, and analytics migration.
 
-### Featured projects
-- 🧪 **Orthogonal Array Testing (OAT) in EMS QI** — methods + case study (draft manuscript).
-- 📦 **`DcStyle`** — a ggplot2 theme aligned to the DC Style Guide.
-- 📚 **Intro to Prehospital Analytics** — a Quarto book in progress.
+
+## 🚀 Featured Projects
+
+- 🧪 **Orthogonal Array Testing (OAT) in EMS QI**  
+  Demonstrates efficient experimentation for improving prehospital care—reducing trial burden while revealing key drivers of performance.  
+
+- 🎨 **DcStyle – ggplot2 Theme**  
+  A custom visualization theme aligned to the DC Style Guide for consistent, professional-grade analytics reporting.  
+
+- 📚 **Intro to Prehospital Analytics**
+  Book in progress!
+
+- 🔗 **EMS Data Ingestion Pipeline (R + SQL)**  
+  Proof-of-concept workflow for automating daily data ingestion from CSV into a structured SQL warehouse to reduce silos and enable reliable dashboards.  
+
+- 🚑 **Advanced Airway Management QI Toolkit**  
+  Practical tools and analytic templates to support a national effort to reduce intubation-related harm in prehospital care.
 
 ### Writing & speaking
 - **EMS QI Desk** — practical notes on SPC, experimentation, and ops improvement.  
